@@ -1,7 +1,5 @@
 library(class)
 library(caret)
-library(readxl)
-library(gmodels)
 
 # import dataset
 UniversalBank <- read_excel("C:/Users/jovan/Downloads/UniversalBank.xlsx")
